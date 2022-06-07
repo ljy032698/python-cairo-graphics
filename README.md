@@ -4,7 +4,7 @@
 
 -[Wikipedia](https://en.wikipedia.org/wiki/Cairo_(graphics))
 
-## Screenshots
+## 스크린샷
 
 ![IMG_001](/Screenshots/IMG_001.png)
 ![IMG_001](/Screenshots/IMG_002.png)
