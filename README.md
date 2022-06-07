@@ -6,6 +6,6 @@
 
 ## Screenshots
 
--[IMG_001](/Screenshots/IMG_001.png)
--[IMG_001](/Screenshots/IMG_002.png)
--[IMG_001](/Screenshots/IMG_003.png)
+![IMG_001](/Screenshots/IMG_001.png)
+![IMG_001](/Screenshots/IMG_002.png)
+![IMG_001](/Screenshots/IMG_003.png)
